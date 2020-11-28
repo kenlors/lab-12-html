@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+}
+p {font-size: 12px;
+}
+p {
+    color: #0000FF;
+}
+.oldfangled a:hover { text-decoration: line-through }
+h1 {
+    text-transform: uppercase;
+}
+h1 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-color: red;
+}
+#intro {
+    background-color: #ccc;
+    padding: 20px;
+    border-style: dashed;
+    border-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-color: black;
+}
+
+.spotlight {
+    background-color: #FEFE22;
+    color: red;
+    font-weight: bold;
+}
+h2 {
+    color: green;
+}
+
+.thisOtherClass {
+    color: green;
+}
+
+.yetAnotherClass {
+    color: green;
+}
+
+h1, h2, {
+    color: #888888;
+    background-color: black;
+}
